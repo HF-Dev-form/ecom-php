@@ -1,0 +1,8 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Mukta', sans-serif;
+}
+
+.container-principal {
+    min-height: 70vh;
+}
